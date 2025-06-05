@@ -1,5 +1,33 @@
 {
   "data": [
+    {
+  "id": "0b33d6c4-90bd-448f-88a8-6d139520cc73",
+  "id_tmdb": "90215",
+  "id_imdb": "tt10431262",
+  "imagen": "https://image.tmdb.org/t/p/w342/vtAJAku94Fm3OVsHx9w04XhsTk3.jpg",
+  "titulo": "Isekai Cheat Magician",
+  "año": "2019",
+  "etiquetas": "Action & Adventure, Sci-Fi & Fantasy, Animation",
+  "categorías": "Action & Adventure, Sci-Fi & Fantasy, Animation",
+  "type": "Animes",
+  "synopsis": "Nishimura Taichi is a typical, average high schooler, and Azuma Rin is a beautiful woman with the build of a model and excellent reflexes. The two live an ordinary high school life until one day, they're suddenly enveloped in a mysterious magic circle and transported to an unknown land.\n\nThat world is full of terrifying monsters, beastmen, dwarves, elves, and many other races right out of fantasy. To survive in this new world, Taichi and Rin decide to become adventurers, but when they take the aptitude test, they discover they both possess cheat-level magic.",
+  "created_at": "06/05/2025 10:15:28 AM",
+  "updated_at": "06/05/2025 10:15:28 AM"
+},
+    {
+  "id": "bcfeafe1-4952-4f4d-9ac3-346be59eaeac",
+  "id_tmdb": "114477",
+  "id_imdb": "tt13628870",
+  "imagen": "https://image.tmdb.org/t/p/w342/drAnsk5w2PX5x3ooPv7I2xr3ksq.jpg",
+  "titulo": "Harem in the Labyrinth of Another World",
+  "año": "2022",
+  "etiquetas": "Animation, Action & Adventure, Sci-Fi & Fantasy",
+  "categorías": "Animation, Action & Adventure, Sci-Fi & Fantasy",
+  "type": "Animes",
+  "synopsis": "High school student Michio Kaga was wandering aimlessly through life and the Internet, when he finds himself transported from a shady website to a fantasy world — reborn as a strong man who can use \"cheat\" powers. He uses his powers to become an adventurer, earn money, and get the right to claim girls that have idol-level beauty to form his very own harem.",
+  "created_at": "06/05/2025 10:03:20 AM",
+  "updated_at": "06/05/2025 10:03:20 AM"
+    },
         {
       "id": "",
       "id_tmdb": "56090",
