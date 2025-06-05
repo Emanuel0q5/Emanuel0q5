@@ -1,5 +1,5 @@
-"data": [
-
+{
+  "data": [
     {
       "id": "jhjsb24",
       "titulo": "Trinity Seven",
@@ -12,12 +12,12 @@
       "categorias": [
         "Comedia"
       ],
-      "sinopsis": "Un día, el brillante sol rojo dejó de brillar, causando el \"Fenómeno de la Explosión\", la destrucción de la ciudad de Arata Kasuga y la desaparición de la gente que la habitaba. Todo, sin embargo, todavía no se ha perdido; Utilizando el grimoire mágico que le dio su amiga de la infancia y prima Hijiri Kasuga, el mundo de Arata se reconstruye artificialmente.  Para investigar el fenómeno, Lilith Asami aparece ante Arata, cuyo mundo artificial se desintegra repentinamente. Se le dan dos opciones: entregar el libro, o morir. Sin embargo, Arata elige la tercera opción: matricularse en la escuela de magia secreta Royal Biblia Academy, donde otros seis usuarios mágicos lo esperan.  Junto con Lilith, estos seis forman la Trinidad Siete, la élite de la escuela, en la cual, cada uno refuerza su propio poder y habilidad.  Con la ambición de salvar a Hijiri y la ayuda de sus nuevos amigos, Arata no para nada para evitar la destrucción de su querida ciudad natal y traer a su mejor amiga de vuelta.",
+      "sinopsis": "Un día, el brillante sol rojo dejó de brillar, causando el \"Fenómeno de la Explosión\", la destrucción de la ciudad de Arata Kasuga y la desaparición de la gente que la habitaba. Todo, sin embargo, todavía no se ha perdido; Utilizando el grimoire mágico que le dio su amiga de la infancia y prima Hijiri Kasuga, el mundo de Arata se reconstruye artificialmente. Para investigar el fenómeno, Lilith Asami aparece ante Arata, cuyo mundo artificial se desintegra repentinamente. Se le dan dos opciones: entregar el libro, o morir. Sin embargo, Arata elige la tercera opción: matricularse en la escuela de magia secreta Royal Biblia Academy, donde otros seis usuarios mágicos lo esperan. Junto con Lilith, estos seis forman la Trinidad Siete, la élite de la escuela, en la cual, cada uno refuerza su propio poder y habilidad. Con la ambición de salvar a Hijiri y la ayuda de sus nuevos amigos, Arata no para nada para evitar la destrucción de su querida ciudad natal y traer a su mejor amiga de vuelta.",
       "etiquetas": "Animación, Comedia",
       "comentarios": "StreamMix",
       "temporadas": [
         {
-         "id": "FyjQ78xl",
+          "id": "FyjQ78xl",
           "temporada": "Temporada 1",
           "capitulos": [
             {
@@ -30,9 +30,9 @@
                   "opcion": "https://luluvdo.com/e/0hq0fxyci5zi",
                   "tipo": "embed"
                 }
-              ]
-            "updated_at": "2022-05-05 12:00:00 AM",
-            "id": "FyjQ78xl"
+              ],
+              "updated_at": "2022-05-05 12:00:00 AM",
+              "id": "FyjQ78xl"
             },
             {
               "nombre": "2. Bloqueo de prisión y grimoire security",
@@ -171,4 +171,5 @@
       ],
       "estado": "completo"
     }
-]
+  ]
+}
