@@ -2,6 +2,20 @@
   "data": [
     {
       "id": "",
+      "id_tmdb": "870028",
+      "id_imdb": "",
+      "imagen": "https://image.tmdb.org/t/p/original/ieYaJz2nzs4wcqpWaofagzGoGPi.jpg",
+      "titulo": "El contable 2",
+      "año": "2025",
+      "etiquetas": "Crimen, Suspense, Acción",
+      "categorías": "Crimen, Acción, Suspense",
+      "type": "Película",
+      "synopsis": "Cuando un viejo conocido es asesinado, Wolff se ve obligado a resolver el caso. Al darse cuenta de que son necesarias medidas más extremas, Wolff recluta a su hermano Brax, distanciado y muy letal, para que le ayude. En colaboración con Marybeth Medina, descubren una conspiración mortal y se convierten en objetivo de una despiadada red de asesinos que no se detendrán ante nada para mantener sus secretos enterrados.",
+      "created_at": "2025-04-24 02:12:09 AM",
+      "updated_at": "2025-04-08 03:06:09 AM"
+    },
+    {
+      "id": "",
       "id_tmdb": "1233413",
       "id_imdb": "",
       "imagen": "https://image.tmdb.org/t/p/original/jYfMTSiFFK7ffbY2lay4zyvTkEk.jpg",
