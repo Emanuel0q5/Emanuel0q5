@@ -1,16 +1,44 @@
 {
   "data": [
+        {
+      "id": "",
+      "id_tmdb": "56090",
+      "id_imdb": "",
+      "imagen": "https://image.tmdb.org/t/p/w342/c1eJChQztcqckDzWyuda4Tk1pH5.jpg",
+      "titulo": "Mondaiji-tachi ga Isekai kara Kuru Sou Desu yo?",
+      "año": "2013",
+      "etiquetas": "Animación, Comedia, Sci-Fi, Fantasy",
+      "categorías": "Animación, Comedia, Sci-Fi, Fantasy",
+      "type": "Animes",
+      "synopsis": "Sakamaki Izayoi, Asuka Kudo, y You Kasukabe tienen enormes poderes que...",
+      "created_at": "2025-04-24 02:12:09 AM",
+      "updated_at": "2025-04-08 03:06:09 AM"
+    },
+    {
+      "id": "",
+      "id_tmdb": "",
+      "id_imdb": "",
+      "imagen": "https://image.tmdb.org/t/p/w342/2kTYmmOU8SsDxSijIDpz9vkT9la.jpg",
+      "titulo": "Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru - Level Up wa Jinsei wo Kaeta",
+      "año": "2023",
+      "etiquetas": "Animación, Sci-Fi, Fantasy, Action, Adventure",
+      "categorías": "Animación, Sci-Fi, Fantasy, Action, Adventure",
+      "type": "Animes",
+      "synopsis": "Una puerta misteriosa está abierta, invitando a un niño que ha sido brutalmente...",
+      "created_at": "2025-04-24 02:12:09 AM",
+      "updated_at": "2025-04-08 03:06:09 AM"
+    },
     {
       "id": "",
       "id_tmdb": "870028",
       "id_imdb": "",
-      "imagen": "https://image.tmdb.org/t/p/original/ieYaJz2nzs4wcqpWaofagzGoGPi.jpg",
+      "imagen": "https://image.tmdb.org/t/p/w342/ieYaJz2nzs4wcqpWaofagzGoGPi.jpg",
       "titulo": "El contable 2",
       "año": "2025",
       "etiquetas": "Crimen, Suspense, Acción",
       "categorías": "Crimen, Acción, Suspense",
       "type": "Película",
-      "synopsis": "Cuando un viejo conocido es asesinado, Wolff se ve obligado a resolver el caso. Al darse cuenta de que son necesarias medidas más extremas, Wolff recluta a su hermano Brax, distanciado y muy letal, para que le ayude. En colaboración con Marybeth Medina, descubren una conspiración mortal y se convierten en objetivo de una despiadada red de asesinos que no se detendrán ante nada para mantener sus secretos enterrados.",
+      "synopsis": "Cuando un viejo conocido es asesinado, Wolff se ve obligado...",
       "created_at": "2025-04-24 02:12:09 AM",
       "updated_at": "2025-04-08 03:06:09 AM"
     },
@@ -18,13 +46,13 @@
       "id": "",
       "id_tmdb": "1233413",
       "id_imdb": "",
-      "imagen": "https://image.tmdb.org/t/p/original/jYfMTSiFFK7ffbY2lay4zyvTkEk.jpg",
+      "imagen": "https://image.tmdb.org/t/p/w342/jYfMTSiFFK7ffbY2lay4zyvTkEk.jpg",
       "titulo": "Los pecadores",
       "año": "2025",
       "etiquetas": "Terror, Acción, Suspense",
       "categorías": "Terror, Acción, Suspense",
       "type": "Película",
-      "synopsis": "Tratando de dejar atrás sus problemáticas vidas, dos hermanos gemelos regresan a su pueblo natal para empezar de nuevo, solo para descubrir que un mal aún mayor les espera para darles la bienvenida.",
+      "synopsis": "Tratando de dejar atrás sus problemáticas vidas, dos hermanos...",
       "created_at": "2025-04-05 02:32:08 AM",
       "updated_at": "2025-04-08 03:06:08 AM"
     }
