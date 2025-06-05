@@ -1,6 +1,48 @@
 {
   "data": [
     {
+  "id": "a37099a3-9745-4e28-81ab-b992db88225f",
+  "id_tmdb": "79574",
+  "id_imdb": "tt9165940",
+  "imagen": "https://image.tmdb.org/t/p/w342/svyZOwNwiPkaSDgozuaw5vB8o3r.jpg",
+  "titulo": "Cinderella Chef",
+  "año": "2018",
+  "etiquetas": "Comedy, Soap, Sci-Fi & Fantasy",
+  "categorías": "Comedy, Soap, Sci-Fi & Fantasy",
+  "type": "Doramas",
+  "synopsis": "Ye Jiayao is transported to ancient times, where she becomes Ye Jinxuan, the daughter of a magistrate. After being kidnapped by bandits, she meets their leader, Xia Chunyu, a former nobleman. Forced into a fake marriage, Ye Jiayao uses her modern cooking skills and sharp wits to win over those around her.",
+  "created_at": "06/05/2025 10:21:12 AM",
+  "updated_at": "06/05/2025 10:21:12 AM"
+    },
+    {
+  "id": "a1132c41-4adf-4bb6-959c-b858d1349bcb",
+  "id_tmdb": "243084",
+  "id_imdb": "tt30762431",
+  "imagen": "https://image.tmdb.org/t/p/w342/cvbYjugS8OPtgPu9J7A9VjKjnsA.jpg",
+  "titulo": "Love Game in Eastern Fantasy",
+  "año": "2024",
+  "etiquetas": "Drama, Sci-Fi & Fantasy",
+  "categorías": "Drama, Sci-Fi & Fantasy",
+  "type": "Doramas",
+  "synopsis": "Pulled into the pages of a fantasy novel, a woman is shocked to find herself stuck in the role of a villain. Now, she must battle to rewrite her destiny.",
+  "created_at": "06/05/2025 10:20:39 AM",
+  "updated_at": "06/05/2025 10:20:39 AM"
+    },
+    {
+  "id": "e52a1b50-eecc-427d-87ab-6a53aecae1d7",
+  "id_tmdb": "261980",
+  "id_imdb": "tt36724865",
+  "imagen": "https://image.tmdb.org/t/p/w342/aJa9ucKWPRxR0p4tOoD4cOfdu5e.jpg",
+  "titulo": "Our Unwritten Seoul",
+  "año": "2025",
+  "etiquetas": "Comedy, Drama",
+  "categorías": "Comedy, Drama",
+  "type": "Doramas",
+  "synopsis": "Twin sisters, whose similarities end with their looks, swap identities amid personal struggles — embarking on a journey to rediscover love and life.",
+  "created_at": "06/05/2025 10:19:29 AM",
+  "updated_at": "06/05/2025 10:19:29 AM"
+    },
+    {
   "id": "0b33d6c4-90bd-448f-88a8-6d139520cc73",
   "id_tmdb": "90215",
   "id_imdb": "tt10431262",
