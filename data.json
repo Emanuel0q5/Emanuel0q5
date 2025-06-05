@@ -1,0 +1,175 @@
+{
+	"data": [
+		{
+			"id": "jhjsb24",
+			"titulo": "Trinity Seven",
+			"id_tmdb": "61460",
+			"url_imagen": "https://image.tmdb.org/t/p/w185//spklcFiiHyIbkAzhKw88Epp25Z0.jpg",
+			"fecha_subida": "2014-10-07",
+			"type": "Anime",
+			"created_at": "2025-04-08 03:06:08 AM",
+			"updated_at": "2025-04-08 03:06:08 AM",
+			"categorias": [
+				"Comedia"
+			],
+			"sinopsis": "Un día, el brillante sol rojo dejó de brillar, causando el \"Fenómeno de la Explosión\", la destrucción de la ciudad de Arata Kasuga y la desaparición de la gente que la habitaba. Todo, sin embargo, todavía no se ha perdido; Utilizando el grimoire mágico que le dio su amiga de la infancia y prima Hijiri Kasuga, el mundo de Arata se reconstruye artificialmente. Para investigar el fenómeno, Lilith Asami aparece ante Arata, cuyo mundo artificial se desintegra repentinamente. Se le dan dos opciones: entregar el libro, o morir. Sin embargo, Arata elige la tercera opción: matricularse en la escuela de magia secreta Royal Biblia Academy, donde otros seis usuarios mágicos lo esperan. Junto con Lilith, estos seis forman la Trinidad Siete, la élite de la escuela, en la cual, cada uno refuerza su propio poder y habilidad. Con la ambición de salvar a Hijiri y la ayuda de sus nuevos amigos, Arata no para nada para evitar la destrucción de su querida ciudad natal y traer a su mejor amiga de vuelta.",
+			"etiquetas": "Animación, Comedia",
+			"comentarios": "StreamMix",
+			"temporadas": [
+				{
+					"id": "FyjQ78xl",
+					"temporada": "Temporada 1",
+					"capitulos": [
+						{
+							"episode_id": "kc79vZLj",
+							"nombre": "1. El candidato a Rey Demonio y la tercera opción",
+							"url_portada": "https://image.tmdb.org/t/p/w300/ts01xHYyc7TfxrZcNrw57zdTPis.jpg",
+							"enlaces": [
+								{
+									"nombre": "Subtitulado",
+									"opcion": "https://luluvdo.com/e/0hq0fxyci5zi",
+									"tipo": "embed"
+								}
+							],
+							"updated_at": "2022-05-05 12:00:00 AM",
+							"id": "FyjQ78xl"
+						},
+						{
+							"nombre": "2. Bloqueo de prisión y grimoire security",
+							"url_portada": "https://image.tmdb.org/t/p/w300/g4jy9xW7lHIwiJBX1O2ytpRWj6O.jpg",
+							"enlaces": [
+								{
+									"nombre": "Subtitulado",
+									"opcion": "https://luluvdo.com/e/952va6z9waff",
+									"tipo": "embed"
+								}
+							]
+						},
+						{
+							"nombre": "3. Magus y alquimista",
+							"url_portada": "https://image.tmdb.org/t/p/w300/4sO4SpDqPmTyCQeYuWkMxwFMrCS.jpg",
+							"enlaces": [
+								{
+									"nombre": "Subtitulado",
+									"opcion": "https://luluvdo.com/e/y3k0ssih5yra",
+									"tipo": "embed"
+								}
+							]
+						},
+						{
+							"nombre": "4. Laberinto y pistolero mágico",
+							"url_portada": "https://image.tmdb.org/t/p/w300/61tXImE51aGeikOPu1YENOWXEfH.jpg",
+							"enlaces": [
+								{
+									"nombre": "Subtitulado",
+									"opcion": "https://luluvdo.com/e/7q9kxa36g5wv",
+									"tipo": "embed"
+								}
+							]
+						},
+						{
+							"nombre": "5. Mundo de sueños y el segundo candidato",
+							"url_portada": "https://image.tmdb.org/t/p/w300/gf0Yn7uN2LhvoTlSLviZfqwqwx7.jpg",
+							"enlaces": [
+								{
+									"nombre": "Subtitulado",
+									"opcion": "https://luluvdo.com/e/h2igor56ob7j",
+									"tipo": "embed"
+								}
+							]
+						},
+						{
+							"nombre": "6. Mago oscuro y el gran evento",
+							"url_portada": "https://image.tmdb.org/t/p/w300/epyN8NYopiSz24Hbn4LC5NtVxQ8.jpg",
+							"enlaces": [
+								{
+									"nombre": "Subtitulado",
+									"opcion": "https://luluvdo.com/e/au790q5c1p6j",
+									"tipo": "embed"
+								}
+							]
+						},
+						{
+							"nombre": "7. Técnica perdida y solución de problemas",
+							"url_portada": "https://image.tmdb.org/t/p/w300/bIBRFeOpYe8xRj1Rdg2GBcveJFB.jpg",
+							"enlaces": [
+								{
+									"nombre": "Subtitulado",
+									"opcion": "https://luluvdo.com/e/ul68ggshd8z3",
+									"tipo": "embed"
+								}
+							]
+						},
+						{
+							"nombre": "8. Estudio y vacaciones",
+							"url_portada": "https://image.tmdb.org/t/p/w300/hqnZm3hDPmI6Urvj4rQ6Dv7xNdy.jpg",
+							"enlaces": [
+								{
+									"nombre": "Subtitulado",
+									"opcion": "https://luluvdo.com/e/t6zrh7pscalc",
+									"tipo": "embed"
+								}
+							]
+						},
+						{
+							"nombre": "9. Batalla bíblica y dulces recuerdos",
+							"url_portada": "https://image.tmdb.org/t/p/w300/pBmEuFPD8wtKziG7I1TcrSwq9ct.jpg",
+							"enlaces": [
+								{
+									"nombre": "Subtitulado",
+									"opcion": "https://luluvdo.com/e/ljvoja826dbw",
+									"tipo": "embed"
+								}
+							]
+						},
+						{
+							"nombre": "10. Amo del juego y esclavo de Satán",
+							"url_portada": "https://image.tmdb.org/t/p/w300/dq0EZMoP0jNDS6cxQdoovFXLQ8Y.jpg",
+							"enlaces": [
+								{
+									"nombre": "Subtitulado",
+									"opcion": "https://luluvdo.com/e/yrmpyxh5t421",
+									"tipo": "embed"
+								}
+							]
+						},
+						{
+							"nombre": "11. Caballeros de Fianna y hermanas",
+							"url_portada": "https://image.tmdb.org/t/p/w300/lskNGUjXiYXodNdDdfO1UaOplzt.jpg",
+							"enlaces": [
+								{
+									"nombre": "Subtitulado",
+									"opcion": "https://luluvdo.com/e/3fl38bt30w3c",
+									"tipo": "embed"
+								}
+							]
+						},
+						{
+							"nombre": "12. Chica criminal y su mundo",
+							"url_portada": "https://image.tmdb.org/t/p/w300/uSmY02akZIscHQx6k8K9IoNiuHJ.jpg",
+							"enlaces": [
+								{
+									"nombre": "Subtitulado",
+									"opcion": "https://luluvdo.com/e/badjckgztlux",
+									"tipo": "embed"
+								}
+							]
+						},
+						{
+							"nombre": "13. La trinidad siete y la lección especial",
+							"url_portada": "https://image.tmdb.org/t/p/w300/rYgUteDXiOdhgtxEX0MHSAjOcSF.jpg",
+							"enlaces": [
+								{
+									"nombre": "Subtitulado",
+									"opcion": "https://luluvdo.com/e/mex0ymu5b4px",
+									"tipo": "embed"
+								}
+							]
+						}
+					]
+				}
+			],
+			"estado": "completo"
+		}
+	]
+}
