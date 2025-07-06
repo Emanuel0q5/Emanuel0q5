@@ -1,7 +1,6 @@
 {
   "data": [
     {
-  "id": "a37099a3-9745-4e28-81ab-b992db88225f",
   "id_tmdb": "79574",
   "id_imdb": "tt9165940",
   "imagen": "https://image.tmdb.org/t/p/w342/svyZOwNwiPkaSDgozuaw5vB8o3r.jpg",
@@ -15,7 +14,7 @@
   "updated_at": "06/05/2025 10:21:12 AM"
     },
     {
-  "id": "a1132c41-4adf-4bb6-959c-b858d1349bcb",
+  
   "id_tmdb": "243084",
   "id_imdb": "tt30762431",
   "imagen": "https://image.tmdb.org/t/p/w342/cvbYjugS8OPtgPu9J7A9VjKjnsA.jpg",
@@ -29,7 +28,7 @@
   "updated_at": "06/05/2025 10:20:39 AM"
     },
     {
-  "id": "e52a1b50-eecc-427d-87ab-6a53aecae1d7",
+  
   "id_tmdb": "261980",
   "id_imdb": "tt36724865",
   "imagen": "https://image.tmdb.org/t/p/w342/aJa9ucKWPRxR0p4tOoD4cOfdu5e.jpg",
@@ -43,7 +42,7 @@
   "updated_at": "06/05/2025 10:19:29 AM"
     },
     {
-  "id": "0b33d6c4-90bd-448f-88a8-6d139520cc73",
+  
   "id_tmdb": "90215",
   "id_imdb": "tt10431262",
   "imagen": "https://image.tmdb.org/t/p/w342/vtAJAku94Fm3OVsHx9w04XhsTk3.jpg",
@@ -57,7 +56,7 @@
   "updated_at": "06/05/2025 10:15:28 AM"
 },
     {
-  "id": "bcfeafe1-4952-4f4d-9ac3-346be59eaeac",
+  
   "id_tmdb": "114477",
   "id_imdb": "tt13628870",
   "imagen": "https://image.tmdb.org/t/p/w342/drAnsk5w2PX5x3ooPv7I2xr3ksq.jpg",
@@ -71,7 +70,7 @@
   "updated_at": "06/05/2025 10:03:20 AM"
     },
         {
-      "id": "",
+      
       "id_tmdb": "56090",
       "id_imdb": "",
       "imagen": "https://image.tmdb.org/t/p/w342/c1eJChQztcqckDzWyuda4Tk1pH5.jpg",
@@ -85,7 +84,7 @@
       "updated_at": "2025-04-08 03:06:09 AM"
     },
     {
-      "id": "",
+     
       "id_tmdb": "",
       "id_imdb": "",
       "imagen": "https://image.tmdb.org/t/p/w342/2kTYmmOU8SsDxSijIDpz9vkT9la.jpg",
@@ -99,7 +98,7 @@
       "updated_at": "2025-04-08 03:06:09 AM"
     },
     {
-      "id": "",
+      
       "id_tmdb": "870028",
       "id_imdb": "",
       "imagen": "https://image.tmdb.org/t/p/w342/ieYaJz2nzs4wcqpWaofagzGoGPi.jpg",
@@ -113,7 +112,7 @@
       "updated_at": "2025-04-08 03:06:09 AM"
     },
     {
-      "id": "",
+      
       "id_tmdb": "1233413",
       "id_imdb": "",
       "imagen": "https://image.tmdb.org/t/p/w342/jYfMTSiFFK7ffbY2lay4zyvTkEk.jpg",
